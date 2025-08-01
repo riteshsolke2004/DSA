@@ -39,31 +39,30 @@ Explanation:Adding 0 and 0 gives 0.
 
 class Solution {
 public:
-  string addStrings(string num1, string num2) {
-    int i = num1.size() - 1;
-    int j = num2.size() - 1;
-    int carry = 0;
-    string result;
+    string addStrings(string num1, string num2) {
+        int i = num1.length() - 1 ;
+        int j = num2.length() - 1 ;
+        int carry = 0 ;
+        string ans ;
 
-    while (i >= 0 || j >= 0 || carry > 0) {
-      int sum = 0;
-      if (i >= 0) {
-        sum += num1[i] - '0';
-        i--;
-      }
-
-      if (j >= 0) {
-        sum += num2[j] - '0';
-        j--;
-      }
-
-      sum += carry ;
-      int digit = sum % 10;
-      char digitchar = digit + '0';
-      result.push_back(digitchar);
-      carry = sum / 10;
+        while(i>=0 || j>=0 || carry > 0){
+            int sum = 0 ;
+            if(i>=0){
+                sum += num1[i] - '0' ;
+                i-- ;
+            }
+            if(j>=0){
+                sum += num2[j] - '0' ;
+                j-- ;
+            }
+            sum += carry ;
+            int lastdigit = sum % 10 ;
+            char lastdigitchar = lastdigit + '0' ;
+            ans.push_back(lastdigitchar) ;
+            carry = sum / 10 ;
+        }
+        reverse(ans.begin() , ans.end()) ;
+        return ans ;
+        
     }
-    reverse(result.begin(), result.end());
-    return result;
-  }
 };
