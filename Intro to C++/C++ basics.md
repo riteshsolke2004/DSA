@@ -24,7 +24,6 @@ C++ is widely used where performance, efficiency, and control over system resour
 - High speed and efficiency
 
 ---
-
 ## 🧩 Basic Structure of a C++ Program
 
 ```cpp
