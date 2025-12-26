@@ -66,8 +66,10 @@ sqrt(), pow(), cout, cin
 Functions created by the programmer.
 
 📌 Types of User-Defined Functions (Based on Arguments & Return)
-Type	Arguments	Return Value
-1	No	No
-2	Yes	No
-3	No	Yes
-4	Yes	Yes
+| Type | Arguments | Return Value |
+| ---- | --------- | ------------ |
+| 1    | No        | No           |
+| 2    | Yes       | No           |
+| 3    | No        | Yes          |
+| 4    | Yes       | Yes          |
+
