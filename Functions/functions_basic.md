@@ -18,7 +18,7 @@ Control goes:
 
 main() → function → back to main()
 
-📌 Example 2: No Arguments, No Return Value
+# 📌 Example 2: No Arguments, No Return Value
 #include <iostream>
 using namespace std;
 
@@ -31,7 +31,8 @@ int main() {
     return 0;
 }
 
-📌 Example 3: With Arguments, No Return
+
+# 📌 Example 3: With Arguments, No Return
 #include <iostream>
 using namespace std;
 
@@ -44,7 +45,7 @@ int main() {
     return 0;
 }
 
-📌 Example 4: No Arguments, With Return
+# 📌 Example 4: No Arguments, With Return
 #include <iostream>
 using namespace std;
 
@@ -58,7 +59,7 @@ int main() {
     return 0;
 }
 
-📌 Function with Default Arguments
+# 📌 Function with Default Arguments
 #include <iostream>
 using namespace std;
 
@@ -91,7 +92,7 @@ int main() {
     cout << add(2.5, 3.5);
 }
 
-📌 Call by Value vs Call by Reference
+# 📌 Call by Value vs Call by Reference
 Call by Value
 void change(int x) {
     x = 10;
@@ -100,7 +101,7 @@ void change(int x) {
 
 Original value does not change.
 
-Call by Reference
+# Call by Reference
 void change(int &x) {
     x = 10;
 }
