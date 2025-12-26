@@ -25,9 +25,9 @@ Tells the compiler that a function exists.
 int add(int, int);
 ```
 
-Also called function prototype
-Written before main()
-Does not contain logic
+- Also called function prototype
+- Written before main()
+- Does not contain logic
 
 # ✅ Function Definition
 
@@ -78,10 +78,9 @@ int main() {
 
 ```
 Explanation:
-
-*Function takes no input
-*Does not return anything
-*Used only for displaying output.
+- Function takes no input
+- Does not return anything
+- Used only for displaying output.
 
 
 # 📌 Example 2: with Arguments, No Return Value
@@ -100,9 +99,9 @@ int main() {
 ```
 
 Explanation:
-Value is passed as argument
-Function processes it
-No value is returned
+- Value is passed as argument
+- Function processes it
+- No value is returned
 
 # 📌 Example 3: No Arguments, With Return Value
 ```cpp
@@ -121,9 +120,9 @@ int main() {
 ```
 
 Explanation:
-Function returns a value
-No parameters required
-Returned value stored in a variable
+- Function returns a value
+- No parameters required
+- Returned value stored in a variable
 
 # 📌 Function with Default Arguments
 
@@ -171,10 +170,10 @@ int main() {
 ```
 
 Key Points:
-Function name is same
-Parameter list must be different
-Improves readability
-Supports compile-time polymorphism
+- Function name is same
+- Parameter list must be different
+- Improves readability
+- Supports compile-time polymorphism
 
 
 # 📌 Call by Value vs Call by Reference
@@ -185,8 +184,8 @@ void change(int x) {
 }
 ```
 
-Copy of variable is passed
-Original value does not change
+- Copy of variable is passed
+- Original value does not change
 
 # ✅ Call by Reference
 ```cpp
@@ -194,8 +193,8 @@ void change(int &x) {
     x = 10;
 }
 ```
-Reference (address) is passed
-Original value does change
+- Reference (address) is passed
+- Original value does change
 
 # 📌 Example: Call by Reference
 ```cpp
