@@ -37,10 +37,11 @@ return_type function_name(parameters) {
 }
 
 Example:
+```cpp
 int add(int a, int b) {
     return a + b;
 }
-
+```
 📌 Parts of a Function
 
 Return Type → Data type of value returned
