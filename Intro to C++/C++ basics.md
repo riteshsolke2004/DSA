@@ -34,7 +34,7 @@ int main() {
     cout << "Hello World";
     return 0;
 }
-
+```
 Explanation:
 
 #include <iostream> → Header file for input/output
@@ -64,11 +64,11 @@ char	Single character
 bool	true / false
 
 Example:
-
+```cpp
 int a = 10;
 float b = 5.5;
 char c = 'A';
-
+```
 ➗ Operators
 Arithmetic Operators
 
@@ -99,6 +99,8 @@ switch(choice) {
 
 🔄 Loops
 For Loop
+
+```cpp
 for(int i = 1; i <= 5; i++) {
     cout << i;
 }
@@ -120,7 +122,7 @@ do {
 int add(int a, int b) {
     return a + b;
 }
-
+```
 
 Functions help in:
 
@@ -131,8 +133,9 @@ Better structure
 Easy debugging
 
 📚 Arrays
+```cpp
 int arr[5] = {1, 2, 3, 4, 5};
-
+```
 
 Access elements:
 
