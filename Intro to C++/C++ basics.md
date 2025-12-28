@@ -160,9 +160,11 @@ Inheritance
 Polymorphism
 
 Example:
+```cpp
 
 class Student {
 public:
     int roll;
     string name;
 };
+```
