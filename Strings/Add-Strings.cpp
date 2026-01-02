@@ -2,7 +2,7 @@
 
 Given two non-negative integers, num1 and num2, represented as strings, you need to add these numbers and return the result as a string.
 You must handle the addition of these numbers without converting them into integers directly or using built-in functions that handle large integers.
-
+ 
 Example:
 Input:
 num1 = "123"
