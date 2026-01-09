@@ -12,7 +12,6 @@ C++ is widely used where performance, efficiency, and control over system resour
 - Used in system software, games, compilers, and embedded systems
 - Helps understand memory management deeply
 - Core language for competitive programming
-
 ---
 
 ## 🛠️ Features of C++
