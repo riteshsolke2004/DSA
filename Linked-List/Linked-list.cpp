@@ -9,7 +9,7 @@ public:
     Node(int val) {
         data = val;
         next = NULL;
-    }
+    } 
 
     static void insertAtHead(int value, Node*& head, Node* &tail){
         Node* newNode = new Node(value);
