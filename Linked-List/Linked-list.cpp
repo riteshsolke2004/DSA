@@ -8,7 +8,7 @@ public:
 
     Node(int val) {
         data = val;
-        next = NULL;
+        next = NULL; 
     } 
 
     static void insertAtHead(int value, Node*& head, Node* &tail){
