@@ -24,7 +24,7 @@ C++ is widely used where performance, efficiency, and control over system resour
 ---
 ## 🧩 Basic Structure of a C++ Program
 
-```cpp
+```cpp 
 #include <iostream>
 using namespace std;
 
