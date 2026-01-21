@@ -14,7 +14,7 @@ It is built on **templates**, making it fast, reusable, and type-safe.
 STL is mainly divided into **4 parts**:
 1. Containers   
 2. Algorithms  
-3. Iterators  
+3. Iterators   
 4. Functors  
 
 ---
