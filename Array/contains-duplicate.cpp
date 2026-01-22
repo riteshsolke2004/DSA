@@ -11,7 +11,7 @@ The element 1 occurs at the indices 0 and 3.
 Example 2:
 Input: nums = [1,2,3,4]
 Output: false
-
+ 
 Explanation:
 All elements are distinct.
 
