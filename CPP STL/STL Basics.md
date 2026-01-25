@@ -7,7 +7,7 @@ STL follows the philosophy:
 
 It is built on **templates**, making it fast, reusable, and type-safe.
 
----  
+---   
 
 ## 📌 Components of STL
 
