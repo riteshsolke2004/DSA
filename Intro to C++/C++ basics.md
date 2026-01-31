@@ -4,7 +4,7 @@
 C++ is a powerful, general-purpose programming language developed by **Bjarne Stroustrup**.  
 It is an extension of the C language and supports **procedural**, **object-oriented**, and **generic programming**. 
      
-C++ is widely used where performance, efficiency, and control over system resources are important.
+C++ is widely used where performance, efficiency, and control over system resources are important. 
 ---     
 ## 🎯 Why Learn C++?
 - Strong foundation for programming concepts
