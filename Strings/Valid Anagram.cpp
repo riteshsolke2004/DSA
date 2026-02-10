@@ -23,25 +23,24 @@ Output: false
 
 class Solution {
 public:
-    bool isAnagram(string s, string t) {
-
-        if(s.length() != t.length()){
-            return false;
-        }
-
-        int count[26] = {0};
+    bool isAnagram(const string& s, const string& t) {
+        // Implement logic to check if `t` is an anagram of `s`
+        int arr[1000] = {0} ;
         for(int i=0; i<s.length(); i++){
-            count[s[i] - 'a']++;
+            char ch = s[i] ;
+            arr[ch] ++ ;
+        } 
+
+        for(int i=0; i<t.length(); i++ ){
+            char ch = t[i] ;
+            arr[ch] -- ;
         }
 
-        for(int i=0; i<t.length(); i++){
-            count[t[i] - 'a']--;
-            if( count[t[i] - 'a'] < 0){
+        for(int i=0; i<1000; i++){
+            if(arr[i] != 0){
                 return false ;
             }
         }
-
-        return true;
-        
+        return true ;
     }
 };
