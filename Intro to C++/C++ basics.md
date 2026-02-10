@@ -6,7 +6,7 @@ It is an extension of the C language and supports **procedural**, **object-orien
        
 C++ is widely used where performance, efficiency, and control over system resources are important. 
 ---       
-## 🎯 Why Learn C++?  
+## 🎯 Why Learn C++?   
 - Strong foundation for programming concepts
 - High performance and fast execution
 - Used in system software, games, compilers, and embedded systems
