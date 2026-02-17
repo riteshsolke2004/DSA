@@ -6,7 +6,7 @@ Your task is to determine the maximum amount of money you can rob tonight withou
 which will be triggered if you rob two directly adjacent houses.
 
 Your goal is to write a function that calculates this maximum amount.
-
+ 
 Example:
 Example 1:
 Input: nums = [1, 2, 3, 1]
