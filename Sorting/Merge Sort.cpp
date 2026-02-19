@@ -6,7 +6,7 @@ Merge Sort Algorithm
 using namespace std;
 
 void merge(vector<int>& arr, int left, int mid, int right) {
-    vector<int> temp;
+    vector<int> temp; 
 
     int i = left;      // starting index of left half
     int j = mid + 1;   // starting index of right half
