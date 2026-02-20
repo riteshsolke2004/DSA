@@ -6,7 +6,7 @@ The number of asterisks starts at 1 in the first row and increases by 2 in each 
 Example
 For n = 4, the output should be:
 
-
+ 
    *
   ***
  *****
