@@ -7,7 +7,7 @@ Instead of writing the same logic again and again, we put it inside a function a
 👉 Functions help in:
 
 Code reusability
-
+ 
 Better readability
 
 Easy debugging
