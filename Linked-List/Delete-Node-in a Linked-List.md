@@ -32,7 +32,7 @@ Explanation: You are given the third node with value 1, the linked list should b
 
 
 #solution :- 
-
+```cpp
   /**
  * Definition for singly-linked list.
  * struct ListNode {
@@ -52,3 +52,4 @@ public:
     
     }
 };
+```
