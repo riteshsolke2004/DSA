@@ -1,4 +1,4 @@
-Linked List Cycle II
+## Linked List Cycle II
 
 Given the head of a linked list, return the node where the cycle begins. If there is no cycle, return null.
 
@@ -30,8 +30,8 @@ Output: no cycle
 Explanation: There is no cycle in the linked list.
 
 
-  # Solution 
-
+  ## Solution 
+```cpp
   class Solution {
 public:
     ListNode* detectCycle(ListNode* head) {
@@ -52,3 +52,4 @@ public:
         return NULL;
     }
 };
+```
