@@ -10,7 +10,7 @@ Do not modify the linked list.
 
  
 
-Example 1:
+Example 1: 
 
 
 Input: head = [3,2,0,-4], pos = 1
