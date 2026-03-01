@@ -1,6 +1,6 @@
-✅ Example 1: Function with Arguments and Return Value (Most Used)
+### ✅ Example 1: Function with Arguments and Return Value (Most Used)
 Program: Add two numbers using function
-
+```cpp
 #include <iostream>
 using namespace std;
 
@@ -26,3 +26,5 @@ int add(int a, int b) {
 Output:
 Enter two numbers: 5 3
 Sum = 8
+
+```
