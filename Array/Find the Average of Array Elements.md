@@ -32,13 +32,13 @@
 - Explanation:Average of [5, 10, 15] is 10.
 
 ## Approach
-### Initialization: Start by initializing a variable, sum, to zero. This variable will be used to accumulate the sum of all elements in the array.
+- Initialization: Start by initializing a variable, sum, to zero. This variable will be used to accumulate the sum of all elements in the array.
 
-### Iterate through the array: Use a loop to traverse through each element of the array. During each iteration, add the current element's value to the sum.
+-  Iterate through the array: Use a loop to traverse through each element of the array. During each iteration, add the current element's value to the sum.
 
-### Calculate the average: Once the loop completes, calculate the average by dividing the sum by the size of the array. This operation gives us the desired average.
+-  Calculate the average: Once the loop completes, calculate the average by dividing the sum by the size of the array. This operation gives us the desired average.
 
-### Return the result: Return the computed average as a double to ensure precision, especially when dealing with integer division.
+-  Return the result: Return the computed average as a double to ensure precision, especially when dealing with integer division.
 
 ```cpp
 
