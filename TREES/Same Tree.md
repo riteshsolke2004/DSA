@@ -3,14 +3,19 @@
 ### Two binary trees are considered the same if they are structurally identical, and the nodes have the same value.
 
 - Example 1:
+- ![ex1](https://github.com/user-attachments/assets/acfe37e0-f4ed-4a8e-bef2-202bb8f068ce)
+
 - Input: p = [1,2,3], q = [1,2,3]
 - Output: true
 
 - Example 2:
+- ![ex2](https://github.com/user-attachments/assets/3266b37b-b2e2-4199-a01a-737d2ebebe65)
+
 - Input: p = [1,2], q = [1,null,2]
 - Output: false
 
 - Example 3:
+- ![ex3](https://github.com/user-attachments/assets/120a91b3-2a6d-4c5f-bcb1-e53237a0aa41)
 - Input: p = [1,2,1], q = [1,1,2]
 - Output: false
 
