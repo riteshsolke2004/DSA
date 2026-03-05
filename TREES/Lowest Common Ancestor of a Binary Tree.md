@@ -7,7 +7,7 @@ p and q as the lowest node in T that has both p and q as descendants (where we a
  
 
 - Example 1:
--<img width="200" height="190" alt="binarytree" src="https://github.com/user-attachments/assets/2ca8e943-7935-47bf-8813-260351648a7d" />
+- <img width="200" height="190" alt="binarytree" src="https://github.com/user-attachments/assets/2ca8e943-7935-47bf-8813-260351648a7d" />
  
 - Input: root = [3,5,1,6,2,0,8,null,null,7,4], p = 5, q = 1
 - Output: 3
