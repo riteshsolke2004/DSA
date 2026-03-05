@@ -7,11 +7,15 @@ p and q as the lowest node in T that has both p and q as descendants (where we a
  
 
 - Example 1:
+-<img width="200" height="190" alt="binarytree" src="https://github.com/user-attachments/assets/2ca8e943-7935-47bf-8813-260351648a7d" />
+ 
 - Input: root = [3,5,1,6,2,0,8,null,null,7,4], p = 5, q = 1
 - Output: 3
 - Explanation: The LCA of nodes 5 and 1 is 3.
 
 - Example 2:
+- <img width="200" height="190" alt="binarytree" src="https://github.com/user-attachments/assets/c7bc92ac-5981-4857-8b7a-ba9ad6cc60a2" />
+
 - Input: root = [3,5,1,6,2,0,8,null,null,7,4], p = 5, q = 4
 - Output: 5
 - Explanation: The LCA of nodes 5 and 4 is 5, since a node can be a descendant of itself according to the LCA definition.
