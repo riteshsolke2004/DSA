@@ -3,6 +3,8 @@ Given the root of a binary tree, return its maximum depth.
 A binary tree's maximum depth is the number of nodes along the longest path from the root node down to the farthest leaf node.
 
 - Example 1:
+-![tmp-tree](https://github.com/user-attachments/assets/e4e4f9de-42e4-4243-9418-ddc8767fbac5)
+ 
 - Input: root = [3,9,20,null,null,15,7]
 - Output: 3
 
