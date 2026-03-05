@@ -4,9 +4,9 @@
 
 ## For example:
 
-4! = 4 * 3 * 2 * 1 = 24
-0! = 1 (by definition)
-The task is to implement a function that takes an integer n and returns its factorial.
+- 4! = 4 * 3 * 2 * 1 = 24
+- 0! = 1 (by definition)
+- The task is to implement a function that takes an integer n and returns its factorial.
 
 - Example
 - Input:
