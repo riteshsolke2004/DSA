@@ -10,6 +10,7 @@
 
 # Example 2:
 - Input: head = [1,2,3,4,5,6]
+- ![midnode2](https://assets.leetcode.com/uploads/2021/07/23/lc-midlist2.jpg)
 - Output: [4,5,6]
 - Explanation: Since the list has two middle nodes with values 3 and 4, we return the second one.
 
