@@ -10,7 +10,7 @@ Code reusability
  
 Better readability
 
-Easy debugging
+Easy debugging 
 
 Proper program structure
 
