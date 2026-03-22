@@ -4,7 +4,7 @@ The **Standard Template Library (STL)** is a powerful library in C++ that provid
     
 STL follows the philosophy:   
 > *“Don’t reinvent the wheel.”* 
- 
+  
 It is built on **templates**, making it fast, reusable, and type-safe.
  
 ---             
