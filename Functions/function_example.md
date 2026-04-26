@@ -5,7 +5,7 @@ Program: Add two numbers using function
 using namespace std;
 
 // Function declaration
-int add(int a, int b);
+int add(int a, int b); 
 
 int main() {
     int x, y;
