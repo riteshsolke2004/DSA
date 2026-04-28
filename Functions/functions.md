@@ -1,6 +1,6 @@
 # 📘 Functions in C++ (Complete Guide)
 📌 What is a Function in C++?
-
+ 
 A function is a block of code that performs a specific task.
 Instead of writing the same logic again and again, we put it inside a function and reuse it.
 
