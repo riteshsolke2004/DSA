@@ -6,7 +6,7 @@ using namespace std;
 
 // Function declaration
 int add(int a, int b); 
-
+ 
 int main() {
     int x, y;
     cout << "Enter two numbers: ";
