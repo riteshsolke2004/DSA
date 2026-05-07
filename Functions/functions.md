@@ -14,7 +14,7 @@ Better readability
 Easy debugging 
 
 Proper program structure
-
+ 
 Traditional programming always respects this idea — divide the program into small logical parts. 
 
 📌 Why Functions Are Important
