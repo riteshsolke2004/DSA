@@ -14,7 +14,7 @@ C++ is widely used where performance, efficiency, and control over system resour
 - Core language for competitive programming
 ---       
 
-## 🛠️ Features of C++
+## 🛠️ Features of C++ 
 - Object Oriented Programming (OOP)
 - Rich Standard Template Library (STL)
 - Low-level memory manipulation
