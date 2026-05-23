@@ -13,7 +13,7 @@ You must solve this problem without using the library's sort function.
 Input: nums = [2,0,2,1,1,0]
 Output: [0,0,1,1,2,2]
 
-Example 2:
+* Example 2:
 Input: nums = [2,0,1]
 Output: [0,1,2]
 
@@ -54,5 +54,28 @@ public:
 
 # Solution 2 (Optimal)
 ```cpp
+class Solution {
+public:
+    void sortColors(vector<int>& nums) {
+        int n = nums.size() ;
+        int mid = 0, low = 0, high = n-1 ;
+
+        while(mid <= high) {
+
+            if(nums[mid] == 0){
+                swap(nums[low], nums[mid]);
+                low++ ;
+                mid++ ;
+            }
+            else if(nums[mid] == 1) {
+                mid++ ;
+            }
+            else{
+                swap(nums[high], nums[mid]);
+                high-- ;
+            }
+        }
+    }
+};
 
 ```
