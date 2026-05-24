@@ -25,7 +25,7 @@ Notice that the order of the output and the order of the triplets does not matte
 - Explanation: The only possible triplet sums up to 0.
 
 
-## Solution 
+## Solution 1
 ```cpp
 class Solution {
 public:
@@ -67,8 +67,53 @@ public:
     }
 };
 ```
+## Solution 2(Brute Force)
+```cpp
+class Solution {
+public:
+    vector<vector<int>> threeSum(vector<int>& nums) {
 
-# Solution 2 (Optimal)
+        int n = nums.size();
+        vector<vector<int>> ans;
+        sort(nums.begin(), nums.end());
+
+        for (int i = 0; i < n; i++) {
+            if (i > 0 && nums[i] == nums[i - 1]) {
+                continue;
+            }
+
+            for (int j = i + 1; j < n; j++) {
+                if (j > i + 1 && nums[j] == nums[j - 1]) {
+                    continue;
+                }
+
+                for (int k = j + 1; k < n; k++) {
+                    if (k > j + 1 && nums[k] == nums[k - 1]) {
+                        continue;
+                    }
+
+                    int first = nums[i];
+                    int second = nums[j];
+                    int third = nums[k];
+
+                    int sum = first + second + third;
+
+                    if (sum == 0) {
+                        vector<int> temp;
+                        temp.push_back(first);
+                        temp.push_back(second);
+                        temp.push_back(third);
+                        ans.push_back(temp);
+                    }
+                }
+            }
+        }
+        return ans;
+    }
+};
+
+```
+## Solution 3 (Optimal)
 ```cpp
 class Solution {
 public:
