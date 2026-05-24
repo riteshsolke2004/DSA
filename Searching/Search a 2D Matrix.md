@@ -1,6 +1,5 @@
-Search a 2D Matrix
-
-### LEETCODE 
+# Search a 2D Matrix
+ 
 You are given an m x n integer matrix matrix with the following two properties:
 
 Each row is sorted in non-decreasing order.
@@ -10,14 +9,13 @@ Given an integer target, return true if target is in matrix or false otherwise.
 You must write a solution in O(log(m * n)) time complexity.
 
  
-Example 1:
+* Example 1:
+- Input: matrix = [[1,3,5,7],[10,11,16,20],[23,30,34,60]], target = 3
+- Output: true
 
-Input: matrix = [[1,3,5,7],[10,11,16,20],[23,30,34,60]], target = 3
-Output: true
-Example 2:
-
-Input: matrix = [[1,3,5,7],[10,11,16,20],[23,30,34,60]], target = 13
-Output: false
+* Example 2:
+- Input: matrix = [[1,3,5,7],[10,11,16,20],[23,30,34,60]], target = 13
+- Output: false
 
 
 ### CODEHELP QUESTION
@@ -79,6 +77,7 @@ true
 
 
 ## LEETCODE SOLUTION 
+```cpp
   class Solution {
 public:
     bool searchMatrix(vector<vector<int>>& matrix, int target) {
@@ -117,8 +116,10 @@ public:
         
     }
 };
+```
 
 ## CODEHELP SOLUTON
+```cpp
 class Solution {
 public:
     bool searchMatrix(vector<vector<int>>& matrix, int target) {
@@ -157,3 +158,4 @@ public:
         return false ;
     }
 };
+```
