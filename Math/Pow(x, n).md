@@ -16,7 +16,7 @@ Implement pow(x, n), which calculates x raised to the power n (i.e., xn).
 - Explanation: 2-2 = 1/22 = 1/4 = 0.25
 
   # Solution
-  ```cpp
+```cpp
   class Solution {
 public:
     double myPow(double x, int n) {
