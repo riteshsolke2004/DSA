@@ -12,7 +12,7 @@
 # Example 1:
 - Input: arr = [1, 2, 3, 4, 5]
 - Output:[5, 4, 3, 2, 1]
--Explanation:The array is reversed to [5, 4, 3, 2, 1].
+-Explanation:The array is reversed to [5, 4, 3, 2, 1]. 
   
 # Example 2:
 - Input:
