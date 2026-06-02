@@ -4,7 +4,7 @@ Given an array of integers nums where each element is either 0 or 1, your task i
 Return the counts of zeros and ones in the specified format.
 
 - Example
-- Input
+- Input 
 - nums = [0, 1, 0, 1, 1, 0, 1, 0]
 - Output
 - zeros: 4, ones: 4
