@@ -1,6 +1,6 @@
 /*242. Valid Anagram
 Solved
-Easy
+Easy 
 Topics
 premium lock icon
 Companies
