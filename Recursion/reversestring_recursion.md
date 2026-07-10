@@ -1,4 +1,4 @@
-118. Reverse String [Using Recursion]
+# Reverse String [Using Recursion]
 
 Given an array s of characters, your task is to reverse the array in place using a recursive approach. 
 You should modify the input array s directly, rearranging its elements so that they appear in reverse order.
@@ -41,7 +41,7 @@ Explanation:The input string hello is reversed. Each character's position is swa
 
 
 #Solution :- 
-
+```cpp
 class Solution {
 
 private:
@@ -64,3 +64,4 @@ public:
     
     }
 };
+```
