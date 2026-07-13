@@ -1,4 +1,4 @@
-246. House Robber
+#  House Robber
 
 You are a professional robber planning to rob houses along a street. The amount of money stored in each house is represented 
 in an array nums where each element is a non-negative integer.
@@ -7,7 +7,7 @@ which will be triggered if you rob two directly adjacent houses.
 
 Your goal is to write a function that calculates this maximum amount.
  
-Example:
+### Example:
 Example 1:
 Input: nums = [1, 2, 3, 1]
 Output: 4
@@ -41,8 +41,8 @@ Output:
 Explanation:Rob houses 1 and 4 (money = 2 + 2 = 4) for maximum amount.
 
 
-#Solution 
-
+# Solution 
+```cpp
 class Solution {
 public:
   int solve(vector<int> &nums, int i) {
@@ -66,3 +66,4 @@ public:
     return ans;
   }
 };
+```
