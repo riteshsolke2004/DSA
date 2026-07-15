@@ -8,7 +8,7 @@ Dynamic Programming (DP) is an optimization technique used to solve problems by 
 
 DP can be applied when a problem has:
 
-* Overlapping Subproblems
+* Overlapping Subproblems 
 * Optimal Substructure
 
 ---
