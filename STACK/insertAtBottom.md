@@ -5,7 +5,7 @@ Example 1:
 
 Input:
 n = 5
-x = 2
+x = 2 
 st = {4,3,2,1,8}
 Output:
 {2,4,3,2,1,8}
