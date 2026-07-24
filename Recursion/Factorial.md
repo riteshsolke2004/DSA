@@ -8,7 +8,7 @@
 - 0! = 1 (by definition)
 - The task is to implement a function that takes an integer n and returns its factorial.
 
-- Example
+- Example 
 - Input:
 n = 5
 Output: 120
