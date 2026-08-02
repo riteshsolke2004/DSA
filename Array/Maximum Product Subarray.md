@@ -21,7 +21,7 @@ Note: It is guaranteed that the answer fits in a 32-bit integer.
   ## Solution
   ```cpp
   class Solution {
-public:
+  public:
     int maxProduct(vector<int> &arr) {
 
         int n = arr.size();
