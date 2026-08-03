@@ -42,6 +42,6 @@ a subarray whose sum is greater than or equal to target. If there is no such sub
         return total == INT_MAX ? 0 : total ;
         
     }
-};
+  };
 
 ```
