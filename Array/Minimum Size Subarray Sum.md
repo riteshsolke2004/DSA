@@ -19,7 +19,7 @@ a subarray whose sum is greater than or equal to target. If there is no such sub
   ## SOLUTION
   ```cpp
   class Solution {
-public:
+  public:
     int minSubArrayLen(int target, vector<int>& nums) {
 
         int total = INT_MAX ;
