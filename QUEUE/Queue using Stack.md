@@ -5,7 +5,7 @@ The Queue must support the following operations:
 
 - (i) enqueue(x): Insert an element x at the rear of the queue.
 - (ii) dequeue(): Remove the element from the front of the queue.
-- (iii) front(): Return the front element if the queue is not empty, else return -1.
+- (iii) front(): Return the front element if the queue is not empty, else return -1. 
 - (iv) size(): Return the number of elements currently in the queue.
 
 ## There will be a sequence of queries queries[][]. The queries are represented in numeric form:
