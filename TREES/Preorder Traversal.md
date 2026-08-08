@@ -1,4 +1,4 @@
-# 🌳 144. Binary Tree Preorder Traversal
+# 🌳  Binary Tree Preorder Traversal
 
 ## Problem Statement
 
