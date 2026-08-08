@@ -333,7 +333,7 @@ must be `true`.
 
 ---
 
-# C++ Solution — Your Approach
+# C++ Solution — BRUTE FORCE Approach
 
 ```cpp id="a8s3km"
 class Solution {
@@ -998,7 +998,7 @@ true
 
 ---
 
-# Final Recommended Code
+# Final OPTIMAL Code
 
 ```cpp id="n5q8zx"
 class Solution {
