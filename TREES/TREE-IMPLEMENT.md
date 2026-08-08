@@ -25,7 +25,7 @@ class Node {
     }
     
 };
-
+ 
 Node* buildtree() {
     int val;
     cout << "Enter value (-1 for NULL): ";
