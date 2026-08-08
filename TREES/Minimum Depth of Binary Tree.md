@@ -19,6 +19,9 @@ right child = NULL
 
 # Example 1
 
+<img width="432" height="302" alt="ex_depth" src="https://github.com/user-attachments/assets/2273b6a5-51bc-4f09-a3cb-3d38e4804645" />
+
+
 ### Input
 
 ```text
