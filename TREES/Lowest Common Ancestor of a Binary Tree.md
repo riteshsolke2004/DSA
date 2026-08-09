@@ -43,6 +43,8 @@ LCA(4,5) = 2
 
 # Example 1
 
+<img width="455" height="285" alt="blobid3_1785502298" src="https://github.com/user-attachments/assets/9e65e8a7-dc76-44f6-a08a-591e4c05211c" />
+
 ### Input
 
 ```text
@@ -88,6 +90,7 @@ The first common node from the bottom is:
 ---
 
 # Example 2
+<img width="455" height="285" alt="blobid4_1785502298" src="https://github.com/user-attachments/assets/46ac57ee-ed0c-47eb-b136-e22ec492f36d" />
 
 ### Input
 
