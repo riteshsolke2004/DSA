@@ -6,7 +6,7 @@ Given a binary tree, determine whether it is **height-balanced**.
 
 A binary tree is **height-balanced** if, for **every node**, the difference between the height of its left subtree and the height of its right subtree is at most `1`.
 
-In other words:
+In other words: 
 
 ```text id="c1f8ae"
 | leftHeight - rightHeight | <= 1
