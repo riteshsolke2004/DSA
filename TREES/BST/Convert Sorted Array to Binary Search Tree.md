@@ -68,7 +68,7 @@ The skewed tree behaves more like a linked list and is not height-balanced.
 
 # Example 1
 <img width="302" height="222" alt="btree1" src="https://github.com/user-attachments/assets/65cf27cb-1981-4b80-82e7-7dbe0f254b9d" />
-<img width="302" height="222" alt="btree2" src="https://github.com/user-attachments/assets/2763ce46-836c-4537-ace9-438f85768276" />
+
 
 
 ### Input
@@ -78,7 +78,7 @@ nums = [-10,-3,0,5,9]
 ```
 
 ### Output
-
+<img width="302" height="222" alt="btree2" src="https://github.com/user-attachments/assets/2763ce46-836c-4537-ace9-438f85768276" />
 ```text
 [0,-3,9,-10,null,5]
 ```
