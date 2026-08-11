@@ -51,8 +51,10 @@ The minimum absolute difference is:
 Therefore, the answer is:
 
 2
-Example 2
-Input
+# Example 2
+<img width="352" height="362" alt="blobid1_1783744852" src="https://github.com/user-attachments/assets/29a37fb3-5b4c-47d4-8a82-5a5c696e1410" />
+
+# Input
 root = [8, 1, 9, N, 4, N, 10, 3]
 k = 9
 Tree
@@ -183,9 +185,9 @@ If we passed it normally instead of by reference, every recursive call would rec
 
 ## C++ Solution
 
-```
+```cpp
 class Solution {
-public:
+  public:
 
     int solve(Node* root, int k, int &minvalue) {
         
@@ -216,14 +218,14 @@ public:
 };
 
 ```
-Detailed Dry Run
+# Detailed Dry Run
 
-Consider:
+### Consider:
 
 root = [10, 2, 11, 1, 5, N, N, N, N, 3, 6, N, 4]
 k = 13
 
-Tree:
+# Tree:
 
              10
             /  \
@@ -619,7 +621,7 @@ solve(root->left, k, minvalue);
 solve(root->right, k, minvalue);
 # Final Code
 
-```
+```cpp
 class Solution {
 public:
 
