@@ -10,9 +10,9 @@ The formula used is:
 
 ```text
 |node->data - k|
-
-We need to find the minimum value among all these differences.
 ```
+We need to find the minimum value among all these differences.
+
 # Example 1
 <img width="291" height="354" alt="blobid0_1783688040" src="https://github.com/user-attachments/assets/9b1056a0-787b-46cf-abfe-e731efc5ae16" />
 
@@ -45,12 +45,11 @@ The node closest to 13 is 11.
 |4  - 13| = 9
 
 The minimum absolute difference is:
-
+```text
 |11 - 13| = 2
+```
+Therefore, the answer is: 2
 
-Therefore, the answer is:
-
-2
 # Example 2
 <img width="352" height="362" alt="blobid1_1783744852" src="https://github.com/user-attachments/assets/29a37fb3-5b4c-47d4-8a82-5a5c696e1410" />
 
@@ -68,21 +67,22 @@ Tree
 Output
 0
 Explanation
-
+```text
 The tree already contains the value 9.
 
 |9 - 9| = 0
 
 Therefore, the minimum possible difference is 0.
-
-Approach
+```
+## Approach
 
 We use recursion / DFS traversal to visit every node of the BST.
 
 For every node:
+```text
 
 int ans = abs(root->data - k);
-
+```
 Then compare this difference with the minimum difference found so far.
 
 minvalue = min(ans, minvalue);
