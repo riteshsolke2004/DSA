@@ -8,7 +8,7 @@ A binary tree is **height-balanced** if, for **every node**, the difference betw
 
 In other words: 
 
-```text id="c1f8ae"
+```text id="c1f8ae" 
 | leftHeight - rightHeight | <= 1
 ```
 
