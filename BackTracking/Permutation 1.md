@@ -8,7 +8,7 @@ A permutation is a different arrangement of all the elements.
 
 You can return the answer in **any order**. 
 
-### What is Given?
+### What is Given? 
 
 - An array `nums` containing distinct integers.
 
