@@ -6,7 +6,7 @@ Given an array `nums` of **distinct integers**, return all possible **permutatio
 
 A permutation is a different arrangement of all the elements.
 
-You can return the answer in **any order**.
+You can return the answer in **any order**. 
 
 ### What is Given?
 
