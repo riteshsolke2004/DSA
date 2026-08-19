@@ -31,9 +31,10 @@ R → Right
 
 ```text
 maze[][] = {{1, 0, 0, 0}, {1, 1, 0, 1}, {1, 1, 0, 0}, {0, 1, 1, 1}}
+```
 
 <img width="595" height="251" alt="blobid0_1781254127" src="https://github.com/user-attachments/assets/13182111-d13a-47fc-b6c7-1d188a88daba" />
-```
+
 ### Output
 
 ```text
