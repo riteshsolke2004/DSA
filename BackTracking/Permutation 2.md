@@ -9,7 +9,7 @@ A permutation is an arrangement of all elements of the array.
 The answer can be returned in **any order**.
 
 ### What is Given? 
-
+ 
 - An integer array `nums`.
 - The array may contain duplicate values.
 
