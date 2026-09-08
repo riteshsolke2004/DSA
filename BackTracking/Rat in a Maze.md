@@ -10,7 +10,7 @@ The rat can move in four directions:
 U → Up
 D → Down
 L → Left
-R → Right 
+R → Right  
 ```
 
 - `1` represents an open cell.
