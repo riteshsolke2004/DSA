@@ -5,7 +5,7 @@
 ## Problem Statement 
  
 Given an integer array `nums` and an integer `target`, return the **indices** of the two numbers such that they add up to the target.
-
+ 
 ### Conditions
  
 * Each input has **exactly one solution**.
