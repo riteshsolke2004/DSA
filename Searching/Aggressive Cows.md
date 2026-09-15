@@ -10,7 +10,7 @@ All stall positions are distinct.
 
 ---
 
-## Example 1
+## Example 1 
 
 ### Input
 
