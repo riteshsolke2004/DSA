@@ -9,7 +9,7 @@ Place all `k` cows into the stalls such that the **minimum distance between any 
 All stall positions are distinct.
 
 ---
-
+ 
 ## Example 1 
 
 ### Input
