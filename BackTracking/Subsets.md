@@ -10,7 +10,7 @@ Given an integer array `nums` of **unique** elements, return all possible **subs
 - The empty subset `[]` must be included.
 - No duplicate subsets are allowed.
 - The answer can be returned in any order.
-- For `n` elements, there are exactly `2ⁿ` possible subsets.
+- For `n` elements, there are exactly `2ⁿ` possible subsets. 
 
 ---
 
