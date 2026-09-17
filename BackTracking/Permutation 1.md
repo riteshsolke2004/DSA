@@ -1,6 +1,6 @@
  # 🔢 46. Permutations
 
-## Problem Statement
+## Problem Statement 
 
 Given an array `nums` of **distinct integers**, return all possible **permutations** of the array.
   
