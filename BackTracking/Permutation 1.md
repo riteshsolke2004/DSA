@@ -32,7 +32,7 @@ Return all possible arrangements of the elements of `nums`.
 ```text
 nums = [1,2,3]
 ```
-
+ 
 ### Output
 
 ```text
