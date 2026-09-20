@@ -12,7 +12,7 @@ Given an integer array `nums`, return all unique triplets:
 
 such that:
 
-```text
+```text 
 i != j
 i != k
 j != k
