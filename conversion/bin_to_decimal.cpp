@@ -9,7 +9,7 @@ int main()
     cout<< "Enter Binary number";
     cin>> binary ; 
     
-    while(binary > 0){
+    while(binary > 0){ 
         
         digit = binary % 10 ;
         decimal += digit * pow(2,power);
