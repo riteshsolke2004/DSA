@@ -7,7 +7,7 @@ int main()
     int binary, digit, power = 0, decimal = 0 ;
     
     cout<< "Enter Binary number";
-    cin>> binary ;
+    cin>> binary ; 
     
     while(binary > 0){
         
