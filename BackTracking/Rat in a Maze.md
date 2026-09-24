@@ -6,7 +6,7 @@ Given a binary matrix `maze[][]` of size `n × n` containing `0` and `1`, find a
 
 The rat can move in four directions:
 
-```text
+```text 
 U → Up
 D → Down
 L → Left 
