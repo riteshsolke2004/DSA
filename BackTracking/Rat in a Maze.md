@@ -9,7 +9,7 @@ The rat can move in four directions:
 ```text
 U → Up
 D → Down
-L → Left
+L → Left 
 R → Right  
 ```
 
