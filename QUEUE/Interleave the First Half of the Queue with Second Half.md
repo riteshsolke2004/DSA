@@ -8,7 +8,7 @@ again second element from the first half and then second element from the 2nd ha
 
 Examples:
 
-- Input: q[] = [2, 4, 3, 1]
+- Input: q[] = [2, 4, 3, 1] 
 - Output: [2, 3, 4, 1]
 - Explanation: We place the first element of the first half 2 and after that place the first element of second half 3 and after that repeat
 the same process one more time so the resulting queue will be [2, 3, 4, 1]
