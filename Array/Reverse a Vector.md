@@ -2,7 +2,7 @@
 
 - In this problem, you are given an array of integers. Your task is to create a function that returns a new array with the elements of the original array in reverse order. The reversal should be performed without altering the original array; instead, you should produce a new one that contains the elements in reversed order.
 
-# For example, 
+# For example,  
 - consider an array:
 - [1, 2, 3, 4]
 - When reversed, this array should become:
