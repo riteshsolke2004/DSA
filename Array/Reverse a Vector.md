@@ -6,7 +6,7 @@
 - consider an array:
 - [1, 2, 3, 4]
 - When reversed, this array should become: 
-- [4, 3, 2, 1] 
+- [4, 3, 2, 1]  
 - The goal is to ensure that every element from the input array appears in reverse order within the output array.
 
 # Example 1:
