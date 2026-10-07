@@ -4,9 +4,9 @@ w# 🔢 18. 4Sum
 
 ## Problem Statement
 
-Given an integer array `nums` of size `n`, return all **unique quadruplets**:
+Given an integer array `nums` of size `n `, return all **unique quadruplets**:
 
-```text
+```text 
 [nums[a], nums[b], nums[c], nums[d]]
 ```
 
