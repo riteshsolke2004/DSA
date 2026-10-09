@@ -4,7 +4,7 @@
 
 Given an array `nums` of **distinct integers**, return all possible **permutations** of the array.
   
-A permutation is a different arrangement of all the elements.
+A permutation is a different arrangement of all the elements. 
   
 You can return the answer in **any order**. 
 
