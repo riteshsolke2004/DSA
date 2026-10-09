@@ -3,7 +3,7 @@
 ## Problem Statement
 
 Given an array `arr[]`, where `arr[i]` represents the number of pages in the `i-th` book, and an integer `k` representing the number of students.
-
+ 
 Allocate all books among the students such that:
 
 * Each student receives **at least one book**.
