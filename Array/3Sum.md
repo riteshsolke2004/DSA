@@ -6,7 +6,7 @@
  
 Given an integer array `nums`, return all unique triplets:
  
-```text
+```text 
 [nums[i], nums[j], nums[k]]   
 ```
   
