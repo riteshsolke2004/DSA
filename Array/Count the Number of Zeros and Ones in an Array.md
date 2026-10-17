@@ -7,9 +7,9 @@ Return the counts of zeros and ones in the specified format.
 - Input 
 - nums = [0, 1, 0, 1, 1, 0, 1, 0]
 - Output
-- zeros: 4, ones: 4 
+- zeros: 4, ones: 4  
 - Explanation
-  The provided array contains four 0s and four 1s, resulting in an output of zeros: 4, ones: 4.
+  The provided array contains four  0s and four 1s, resulting in an output of zeros: 4, ones: 4.
  
 - Instructions
  - Implement a function that will take the array nums as input and return the count of zeros and ones.
