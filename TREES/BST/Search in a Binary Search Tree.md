@@ -5,7 +5,7 @@
 ## Problem Statement
 
 You are given the root of a **Binary Search Tree (BST)** and an integer `val`.
-
+ 
 Your task is to find the node whose value is equal to `val`.
 
 If the node exists:
