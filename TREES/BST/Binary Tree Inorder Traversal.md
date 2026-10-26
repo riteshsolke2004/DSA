@@ -5,7 +5,7 @@
 ### Example 1:
 
 - Input: root = [1,null,2,3]
-
+ 
 - Output: [1,3,2]
 - <img width="254" height="335" alt="screenshot-2024-08-29-202743" src="https://github.com/user-attachments/assets/fa45fac8-b185-4017-b006-9abdcc8727c0" />
 
