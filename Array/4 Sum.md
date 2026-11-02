@@ -8,7 +8,7 @@ Given an integer array `nums` of size `n `, return all **unique quadruplets**:
 
 ```text 
 [nums[a], nums[b], nums[c], nums[d]]
-```
+``` 
 
 such that: 
 
